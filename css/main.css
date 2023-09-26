@@ -1,0 +1,23 @@
+.div{
+    background-color: rgb(228, 203, 169);
+    width: 240px;
+}
+.li {
+    border: 2px solid rgb(0, 0, 0);
+    width: 150px;
+    height: 165px;
+    list-style: none;
+    text-align: center;
+}
+
+.li2 {
+    border: 2px solid black;
+    height: 180px;
+    width: 150px;
+    background-color: white;
+    list-style: none;
+    text-align: center;
+}
+
+
+
